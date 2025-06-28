@@ -1,12 +1,27 @@
-# React + Vite
+# Fancy Tic-Tac-Toe React App 🎮✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, stylish Tic-Tac-Toe game built with React.  
+Features:
+- Responsive 3x3 grid with animated winning highlights  
+- Color-coded X and O players  
+- Reset button to start a new game  
+- Simple and clean UI with glassmorphism style  
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot](screenshot.png)  
+*(Add a screenshot of your app here)*
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+- Node.js (v14 or newer recommended)  
+- npm or yarn package manager
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/fancy-tic-tac-toe.git
+cd fancy-tic-tac-toe
+npm install
