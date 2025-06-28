@@ -9,8 +9,7 @@ Features:
 
 ## Demo
 
-![Screenshot](screenshot.png)  
-*(Add a screenshot of your app here)*
+![Screenshot](../firstt/src/assets/image.png)  
 
 ## Getting Started
 
