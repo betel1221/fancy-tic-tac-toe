@@ -10,7 +10,7 @@ Features:
 
 ## Demo
 
-![Screenshot](./firstt/src/assets/image.png)  
+![Screenshot](src/assets/image.png)
 
 ## Getting Started
 
